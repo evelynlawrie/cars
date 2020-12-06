@@ -1,3 +1,11 @@
+# Identifying Information:
+^M
+1. Name: Evelyn Lawrie
+2. Student ID: 2364909
+3. Email: lawrie@chapman.edu
+4. Class: CPSC298-03
+5. Assignment: cars
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
@@ -22,3 +30,15 @@ The program will display the lines of the My_old_cars file, sorted by year
 ### If the user chooses to Quit  
 The program will display a “Goodbye” message and exit.
 
+# Files
+^M
+1. cars.sh
+2. cars-input
+3. My_old_cars
+
+# Known Errors
+
+# References
+
+# Instructions
+To run the script with input from the included cars-input file: ./cars.sh < cars-input
