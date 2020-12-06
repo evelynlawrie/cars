@@ -1,5 +1,4 @@
 # Identifying Information:
-^M
 1. Name: Evelyn Lawrie
 2. Student ID: 2364909
 3. Email: lawrie@chapman.edu
@@ -31,7 +30,6 @@ The program will display the lines of the My_old_cars file, sorted by year
 The program will display a “Goodbye” message and exit.
 
 # Files
-^M
 1. cars.sh
 2. cars-input
 3. My_old_cars
